@@ -79,6 +79,11 @@ params:
     rss: yes
 #    stackoverflow: https://stackoverflow.com/users/yourstackoverflowid
 #    wechat: your wechat qr code image
+#    weibo: 
+#    zhihu: 
+#    instagram: 
+#    twitter: 
+#    facebook: 
   title_404: 你来到了没有知识的荒原 :(
 outputFormats:
   Algolia:
@@ -93,3 +98,4 @@ markup:
     endLevel: 2
     startLevel: 1
 DisqusShortname: "zhang-yue"
+
