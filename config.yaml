@@ -94,6 +94,7 @@ params:
     avatar : 'mm' 
     placeholder : '说点什么吧...'
     visitor : true
+    enableQQ : true
   
 outputFormats:
   Algolia:
