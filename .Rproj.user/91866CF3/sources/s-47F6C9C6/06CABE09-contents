@@ -1,0 +1,11 @@
+<iframe 
+  frameborder="no" 
+  border="0" 
+  marginwidth="0" 
+  marginheight="0" 
+  width=330 
+  height=86 
+  src="https://y.gtimg.cn/music/h5/client/jsbridge.js?max_age={{.Get 0 }}"
+  </iframe>
+
+https://i.y.qq.com/v8/playsong.html?ADTAG=erweimashare&channelId=10036163&openinqqmusic=1&songid=4785119&songtype=0&source=wkframe#wechat_redirect
