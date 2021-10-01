@@ -85,6 +85,16 @@ params:
 #    twitter: 
 #    facebook: 
   title_404: 你来到了没有知识的荒原 :(
+  valine:
+    enable : true
+    appId : 'fQVJei013U4fxuhD7uU2JYaN-gzGzoHsz'
+    appKey : 'Piapf23lEXn0nBwaroCDKYth'
+    notify : false
+    verify : false
+    avatar : 'mm' 
+    placeholder : '说点什么吧...'
+    visitor : true
+  
 outputFormats:
   Algolia:
     baseName: algolia
@@ -97,5 +107,5 @@ markup:
   tableOfContents:
     endLevel: 2
     startLevel: 1
-DisqusShortname: "zhang-yue"
+#DisqusShortname: "zhang-yue"
 
