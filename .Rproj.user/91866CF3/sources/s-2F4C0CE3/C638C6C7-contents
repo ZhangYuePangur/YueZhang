@@ -16,6 +16,8 @@ image: '/img/post-bg-coffee.jpeg'
 
 <iframe src="https://trello.com/b/xUkPDe2m.html" name="iFrame Name" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
 
+{{< trello xUkPDe2m >}}
+
 ### cloudmusic
 
 `{{</* cloudmusic 1830664234 */>}}`
