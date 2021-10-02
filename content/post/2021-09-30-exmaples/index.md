@@ -14,9 +14,7 @@ image: '/img/post-bg-coffee.jpeg'
 
 ## Plugin
 
-<iframe src="https://trello.com/b/xUkPDe2m.html" name="iFrame Name" scrolling="No" height="500px" width="100%" style="border: none;"></iframe>
-
-{{< trello xUkPDe2m >}}
+{{< trello 1V9CSXyY >}}
 
 ### cloudmusic
 
