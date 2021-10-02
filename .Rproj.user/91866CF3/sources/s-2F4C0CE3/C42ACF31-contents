@@ -1,0 +1,60 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+set.seed(1014)
+```
+
+# emo(ji)
+
+The goal of emo(ji) is to make it very easy to insert emoji into RMarkdown documents.
+
+Emoji data from <https://github.com/muan/emojilib/>.
+
+## Installation
+
+You can install emo from github with:
+
+```R
+# install.packages("devtools")
+devtools::install_github("hadley/emo")
+```
+
+## Example
+
+You can either refer to emoji by their name (which is unique):
+
+```{r}
+emo::ji("poop")
+```
+
+Or by a keyword. Keywords are not unique so emo::ji will pick one for you at random.
+
+```{r} 
+emo::ji("face")
+emo::ji("face")
+emo::ji("face")
+```
+
+Often you'll use inline like `r '\u60\u60 \u60r emo::ji("smile")\u60 \u60\u60'` `r emo::ji("smile")`
+
+## Keywords
+
+These are all keywords with more than one emoji associated with them.
+
+```{r, echo = FALSE}
+keywords <- emo::ji_keyword
+keywords <- keywords[lengths(keywords) > 1]
+
+emojis <- purrr::map_chr(keywords, function(x) paste0(emo::ji_name[x], collapse = ""))
+
+cat(paste(names(emojis), ": ", emojis, collapse = "\n"))
+```
