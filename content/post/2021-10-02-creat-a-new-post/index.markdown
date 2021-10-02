@@ -262,69 +262,53 @@ Bulleted List:
 
 #### mindmap
 
-    {{%/* mind */%}}
-    - Root
-        - Level 1
-            - Level 2
-            - Level 2
-                - Level 3
-                - Level 3
-                    - Level 4
-                        - Level 5
-                            - Level 6
-        - Level 1
-            - Level 2
-            - Level 2
-         - Level 1
-            - Level 2
-            - Level 2
-         - Level 1
-            - Level 2
-            - Level 2
-         - Level 1
-            - Level 2
-            - Level 2
-    {{%/* /mind */%}}
+{{%/* mind */%}}
+- Root
+    - Level 1
+        - Level 2
+        - Level 2
+            - Level 3
+            - Level 3
+                - Level 4
+                    - Level 5
+                        - Level 6
+    - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+{{%/* mind */%}}
 
 {{% mind %}}
-
--   Root
-
-    -   Level 1
-
-        -   Level 2
-
-        -   Level 2
-
-            -   Level 3
-
-            -   Level 3
-
-                -   Level 4
-
-                    -   Level 5
-
-                        -   Level 6
-
-    -   Level 1
-
-        -   Level 2
-        -   Level 2
-
-    -   Level 1
-
-        -   Level 2
-        -   Level 2
-
-    -   Level 1
-
-        -   Level 2
-        -   Level 2
-
-    -   Level 1
-
-        -   Level 2
-        -   Level 2 {{% /mind %}}
+- Root
+    - Level 1
+        - Level 2
+        - Level 2
+            - Level 3
+            - Level 3
+                - Level 4
+                    - Level 5
+                        - Level 6
+    - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+     - Level 1
+        - Level 2
+        - Level 2
+{{% /mind %}}
 
 #### 网易云音乐
 

@@ -3,7 +3,7 @@
     "path": "F:/YueZhang/content/post/2021-10-02-creat-a-new-post/index.Rmarkdown",
     "project_path": "content/post/2021-10-02-creat-a-new-post/index.Rmarkdown",
     "type": "r_markdown",
-    "hash": "4071275687",
+    "hash": "1739316174",
     "contents": "",
     "dirty": false,
     "created": 1633164336933.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "405,0",
-        "scrollLine": "398",
+        "cursorPosition": "308,17",
+        "scrollLine": "290",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
@@ -21,11 +21,11 @@
         "docOutlineSize": "204"
     },
     "folds": "",
-    "lastKnownWriteTime": 1633211835,
+    "lastKnownWriteTime": 1633212620,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1633211835809,
+    "last_content_update": 1633212620155,
     "read_only": false,
     "read_only_alternatives": []
 }
