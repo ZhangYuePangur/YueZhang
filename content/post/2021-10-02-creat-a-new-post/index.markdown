@@ -366,22 +366,68 @@ Bulleted List:
 
 放大镜右边的毛线球Knit点一下。在右下角的Viewer窗口就可以看见文章，下面的红框的按钮把窗口弹出到浏览器。（但在未上传到github之前，都是只改变了本地的文件，没有联网。）
 
+![](images/view.png)
+
 ## 发布文章
 
 终于写完了，然后就打开你的github
 
+1\.
+
+![](images/github.png)
+
+Commit to main
+
+2\.
+
+![](images/push.png)
+
+push origin
+
+就好了！然后这篇文章就被发布到网站上了。
+
 ## 管理文章
+
+你的所有文章都保存在`content这个文件夹里。主页的文章都在`\`content/post`里，每个文件夹对应一篇文章。如果你想把文章移动到life或者note栏，把对应文件夹剪切到content/life`就可以了。想要删除文章就把对应文件夹删掉。
 
 # 网站管理
 
 ## 预览
 
+![](images/site.png)
+
+\`Addins \< Serve Site\`
+
 ## 上传修改
+
+同[发布文章](#发布文章)
 
 ## 版本控制
 
 ## 评论管理
 
+[Leancloud](https://console.leancloud.cn/apps)
+
+登录后进入Zhang Yue Blog
+
+![](images/comment.png)
+
+`数据存储 < 结构化数据 < Comment`
+
+选中评论，可以删除，下载，分析等。
+
 ## 日程管理
 
+\[trello\](<https://trello.com/>)
+
 ## 增加其他功能
+
+请留言
+
+# 结语
+
+写给我可爱的小张🐇😘
+
+小李于
+
+02/10/2021
