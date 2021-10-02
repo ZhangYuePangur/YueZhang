@@ -47,10 +47,6 @@ params:
       title: Martin Fowler
     - href: http://www.servicemesher.com
       title: ServiceMesher
-    - href: https://pxhere.com
-      title: Pxhere
-    - href: https://unsplash.com
-      title: unsplash
   bookmarks: no
   description: 张玥，瑞克和莫迪爱好者，生活探险家 | 这里是 张玥 的博客，与你一起发现更大的世界。
   disqus_proxy: ''
@@ -66,7 +62,7 @@ params:
   keyword: ZhangYue, zhangyue, 张玥的网络日志, 张玥的博客, ZhangYue Blog, 博客,
   leancloud_app_id: ''
   leancloud_app_key: ''
-  omit_categories: no
+  omit_categories: yes
   page_view_conter: no
   reward: yes
   sidebar_about_description: The most beautiful, brilliant, talented, gentle, cute girl.
@@ -104,9 +100,9 @@ outputFormats:
     notAlternative: yes
 markup:
   highlight:
-    style: dracula
+    codeFences : false
+    noClasses : false
   tableOfContents:
-    endLevel: 2
-    startLevel: 1
+    endLevel: 6
+    startLevel: 2
 #DisqusShortname: "zhang-yue"
-

@@ -4,14 +4,10 @@ author: Zhang Yue
 date: '2021-09-30'
 slug: []
 categories:
-  - Tech
 tags:
-  - tag1
-  - tag2
 subtitle: ''
 description: ''
-image: ''
-toc: false
+image: '/img/post-bg-coffee.jpeg'
 ---
 
 # cloudmusic

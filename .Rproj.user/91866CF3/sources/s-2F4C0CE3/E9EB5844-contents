@@ -1,34 +1,25 @@
 ---
-title: Exmaples
+title: test
 author: Zhang Yue
 date: '2021-09-30'
 slug: []
 categories:
-  - Tech
 tags:
-  - tag1
-  - tag2
 subtitle: ''
 description: ''
-image: ''
-toc: false
+image: '/img/post-bg-coffee.jpeg'
 ---
 
-# cloudmusic
+---
 
-{{< cloudmusic 525278524 >}}
+![](/img/ZhangYue.jpg)
 
-# Bilibi
-
-If you want to add a bilibili video, just write:
-
-{{< bilibili BV1uk4y127gq >}}
-
-# Mind Map
+{{< bilibili BV1uA411T7YA >}}
 
 {{% mind %}}
+
 - Root
-    - Level 1
+    - Level test
         - Level 2
         - Level 2
             - Level 3
@@ -36,18 +27,20 @@ If you want to add a bilibili video, just write:
                 - Level 4
                     - Level 5
                         - Level 6
-    - Level 1
+    - Level try
+        - Level 2
+        - Level 2
+     - Level example
+        - Level 2
+        - Level 2
+     - Level this is what
         - Level 2
         - Level 2
      - Level 1
         - Level 2
         - Level 2
-     - Level 1
-        - Level 2
-        - Level 2
-     - Level 1
-        - Level 2
-        - Level 2
+
+
+
+
 {{% /mind %}}
-
-

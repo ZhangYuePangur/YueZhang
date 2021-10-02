@@ -10,9 +10,6 @@ tags:
 subtitle: ''
 description: 'An Invitation'
 image: '/img/movie.jpg'
-output:
-  blogdown::html_page:
-    toc: no
 ---
 
 <p align="right">

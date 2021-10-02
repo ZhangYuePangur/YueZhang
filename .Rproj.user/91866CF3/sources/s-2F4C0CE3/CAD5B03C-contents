@@ -4,15 +4,15 @@ author: Zhang Yue
 date: '2021-09-30'
 slug: []
 categories:
-  - Tech
 tags:
-  - tag1
-  - tag2
 subtitle: ''
 description: ''
-image: ''
-toc: false
+image: '/img/post-bg-coffee.jpeg'
 ---
+
+# cloudmusic
+
+{{< cloudmusic 525278524 >}}
 
 # Bilibi
 
@@ -45,3 +45,5 @@ If you want to add a bilibili video, just write:
         - Level 2
         - Level 2
 {{% /mind %}}
+
+
