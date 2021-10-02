@@ -16,7 +16,7 @@ image: img/post-bg-coffee.jpeg
 
 `config.yaml`
 
-## 背景图
+#### 背景图
 
 60行，就是你的桌面那个图。我猜你不想换。在img这个文件夹里放你想换的图片，然后在这里把图片名换掉就好了，注意后缀也写上。img文件夹在YueZhang/static里。 `header_image: img/Desk.jpg`
 
@@ -26,7 +26,7 @@ image: img/post-bg-coffee.jpeg
 
 70行标语，打了＃意思就是不让它起作用。 `slogan: 路在脚下，心向远方`
 
-## 头像
+#### 头像
 
 69行`sidebar_avatar: img/ZhangYue.jpg`。在img这个文件夹里放你想换的图片，然后在这里把图片名换掉就好了，注意后缀。img文件夹在YueZhang/static里。
 
@@ -34,11 +34,11 @@ image: img/post-bg-coffee.jpeg
 
 `sidebar_about_description: The most beautiful, brilliant, talented, gentle, cute girl.`
 
-## GIRLFRIEND
+#### GIRLFRIEND
 
 不许编辑
 
-## BOOKMARKS
+#### BOOKMARKS
 
 第45行开始
 
@@ -51,7 +51,7 @@ image: img/post-bg-coffee.jpeg
 
 `bookmarks`写成no就不会显示书签，yes就显示。href是链接的网址，title是显示出来的名字。这个例子中显示的就是[Martin Fowler](https://martinfowler.com)和[ServiceMesher](http://www.servicemesher.com)。
 
-## MUSIC
+#### MUSIC
 
 建议你直接找我给你换。首先，打开这个文件。
 
@@ -61,7 +61,7 @@ image: img/post-bg-coffee.jpeg
 
 xxxxxxxx换成网易云音乐的id。
 
-## 社交媒体
+#### 社交媒体
 
 71-82行
 
@@ -80,7 +80,7 @@ xxxxxxxx换成网易云音乐的id。
 
 打了＃就是不起作用。想用哪个把前面的\#删掉，直接输入链接就可以了。微信是二维码位置，你可以放到img这个文件夹里，然后比如你的二维码是`QR.jpg`，这里就写`img/QR.jpg`。img文件夹在YueZhang/static里。
 
-## 赞赏支持
+#### 赞赏支持
 
 67行`reward: yes`，换成no就关了
 
@@ -345,17 +345,29 @@ Bulleted List:
 
 ### 使用小技巧
 
-#### 导航栏
+#### 大纲栏
 
-#### 搜索与替换
+![](images/outline.png)
+
+点一下就可以蹦过去。
 
 #### 多级标题折叠
 
-#### 单词拼写检测
+![](images/title.png)
+
+关掉visual模式，点小三角可以展开或收缩标题，非常非常非常写作友好。可以先打好各级标题，差不多文章框架就搭好了。但是有些部分暂时不想写，或者已经写完了，就可以折叠起来。专注展开的一小块写作就好了。也不用非要从开头开始写，想先写哪就先写哪。
+
+#### 搜索与替换
+
+![](images/replace.png)
 
 ### 预览文章
 
+放大镜右边的毛线球Knit点一下。在右下角的Viewer窗口就可以看见文章，下面的红框的按钮把窗口弹出到浏览器。（但在未上传到github之前，都是只改变了本地的文件，没有联网。）
+
 ## 发布文章
+
+终于写完了，然后就打开你的github
 
 ## 管理文章
 
