@@ -1,20 +1,20 @@
 ---
-title: test
-author: Zhang Yue
+title: "test"
+author: "Zhang Yue"
 date: '2021-09-30'
 slug: []
-categories:
-tags:
+categories: null
+tags: null
 subtitle: ''
 description: ''
-image: '/img/post-bg-coffee.jpeg'
+image: /img/post-bg-coffee.jpeg
 ---
 
 ---
 
 ![](/img/ZhangYue.jpg)
 
-{{< bilibili BV1uA411T7YA >}}
+`{{</* bilibili BV1kZ4y137gv */>}}`
 
 {{% mind %}}
 
