@@ -391,19 +391,19 @@ push origin
 
 # 网站管理
 
-## 预览
+### 预览
 
 ![](images/site.png)
 
 \`Addins \< Serve Site\`
 
-## 上传修改
+### 上传修改
 
 同[发布文章](#发布文章)
 
-## 版本控制
+### 版本控制
 
-## 评论管理
+### 评论管理
 
 [Leancloud](https://console.leancloud.cn/apps)
 
@@ -415,11 +415,11 @@ push origin
 
 选中评论，可以删除，下载，分析等。
 
-## 日程管理
+### 日程管理
 
-\[trello\](<https://trello.com/>)
+[trello](<https://trello.com/>)
 
-## 增加其他功能
+### 增加其他功能
 
 请留言
 
