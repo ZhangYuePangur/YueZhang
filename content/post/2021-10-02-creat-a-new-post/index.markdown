@@ -310,8 +310,7 @@ Bulleted List:
      - Level 1
         - Level 2
         - Level 2
-{{% mind %}}
-
+{{% /mind %}}
 
 #### 网易云音乐
 
