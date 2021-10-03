@@ -262,7 +262,8 @@ Bulleted List:
 
 #### mindmap
 
-{{%/* mind */%}}
+```
+{{</* mind */>}}
 - Root
     - Level 1
         - Level 2
@@ -284,9 +285,10 @@ Bulleted List:
      - Level 1
         - Level 2
         - Level 2
-{{%/* mind */%}}
+{{</* mind */>}}
+```
 
-{{% mind %}}
+{{< mind >}}
 - Root
     - Level 1
         - Level 2
@@ -308,7 +310,8 @@ Bulleted List:
      - Level 1
         - Level 2
         - Level 2
-{{% /mind %}}
+{{< mind >}}
+
 
 #### 网易云音乐
 
